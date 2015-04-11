@@ -1,6 +1,6 @@
 # IoT Commerce demo of V.Zero Ruby using Sinatra 
 
-This is a reall basic example of the Braintree Dropin JS Client Library in Sinatra to make a Credit Card or PayPal payment.
+This is a reall basic example of the Braintree Dropin JS Client Library in Sinatra to make a Credit Card or PayPal payment integrated with an Arduino Yun and a Thermal printer.
 
 ## Technology
 
